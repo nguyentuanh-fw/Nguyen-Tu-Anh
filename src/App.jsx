@@ -18,7 +18,7 @@ export default function App() {
             </div>
 
             <img
-              src="/pic.jpg"
+              src="pic.jpg"
               alt="PIC"
               loading="lazy"
               className="w-40 h-40 object-cover shadow-lg"
