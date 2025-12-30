@@ -96,7 +96,7 @@ export const profile = {
         pos: "Leader",
         time: "2023",
         details: [
-            "/hdnk/stemboxes/meomeo.jpg"
+            "hdnk/stemboxes/meomeo.jpg"
         ]
     },
     {
@@ -158,3 +158,4 @@ export const profile = {
     ]
 
 };
+
