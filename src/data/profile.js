@@ -72,7 +72,6 @@ export const profile = {
             "hdnk/stem/23.jpg"
         ],
         video: [
-            "hdnk/stem/13.mp4",
             "hdnk/stem/14.mp4",
             "hdnk/stem/15.mp4"
         ]
@@ -97,7 +96,7 @@ export const profile = {
         pos: "Leader",
         time: "2023",
         details: [
-            "/hdnk/stemboxes/1.jpg"
+            "/hdnk/stemboxes/meomeo.jpg"
         ]
     },
     {
@@ -137,9 +136,6 @@ export const profile = {
             "hdnk/proptit/5.jpg",
             "hdnk/proptit/6.jpg"
         ],
-        video: [
-            "hdnk/proptit/7.mp4"
-        ]
     },
     {
         title: "Joining Student Union of the Faculty of Information Technology 1",
@@ -158,9 +154,7 @@ export const profile = {
             "hdnk/itis/9.jpg",
             "hdnk/itis/10.jpg"
         ],
-        video: [
-            "hdnk/itis/11.mp4"
-        ]
     },
     ]
+
 };
